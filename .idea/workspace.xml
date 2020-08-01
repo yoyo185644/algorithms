@@ -35,6 +35,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -43,6 +46,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1b7LlTjQQO6R4OxkbKjt1HI6gct" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -263,7 +267,7 @@
       <workItem from="1592374542756" duration="2987000" />
       <workItem from="1592728114541" duration="3190000" />
       <workItem from="1593933276639" duration="459000" />
-      <workItem from="1596245664032" duration="788000" />
+      <workItem from="1596245664032" duration="1006000" />
     </task>
     <servers />
   </component>
