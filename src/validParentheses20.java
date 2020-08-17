@@ -37,7 +37,7 @@ import java.util.Stack;
 输出: true
 https://leetcode-cn.com/problems/valid-parentheses/
  */
-public class validParentheses20 {
+public class validParentheses20{
     //错误解答
 //    public static boolean isValid(String s) {
 //        String ins = s;
@@ -69,7 +69,8 @@ public class validParentheses20 {
 //
 //    }
     //使用栈的思想
-    public static boolean isValid_leetcode(String s){
+
+    public static boolean isValid_leetcode (String s){
         if (s.length() == 0) return true;
         Stack<Character> stack = new Stack<>();
         for (char c : s.toCharArray()){

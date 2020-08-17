@@ -37,6 +37,7 @@ public class cal8Queens {
     public static void main(String[] args){
         cal();
         System.out.println(res.toString());
+        
     }
 
 
