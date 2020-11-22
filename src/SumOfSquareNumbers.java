@@ -8,6 +8,7 @@ public class SumOfSquareNumbers {
         System.out.println(judgeSquareSum(5));
     }
     public static boolean judgeSquareSum(int c) {
+        //
         double n  =  Math.sqrt(c);
         for(int i = 0;i*i<=n;i++){
             double b  =  Math.sqrt(n-i*i);
