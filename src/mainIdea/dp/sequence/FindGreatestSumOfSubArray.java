@@ -27,7 +27,9 @@ public class FindGreatestSumOfSubArray {
             dp[i] = Math.max(dp[i-1]+array[i],array[i]);
         }
         Arrays.sort(dp);
+
         return dp[array.length-1];
+
 
     }
 

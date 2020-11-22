@@ -49,7 +49,7 @@ public class permutationsII47 {
         }
     }
     public static void main(String[] args) {
-        System.out.println(permuteUnique(new int[]{3,3,0,3}));
+        System.out.println(permuteUnique(new int[]{1,2,3}));
 
     }
 

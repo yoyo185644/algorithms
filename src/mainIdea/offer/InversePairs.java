@@ -11,17 +11,17 @@ package mainIdea.offer;
  */
 public class InversePairs {
     public static void main(String[] args) {
-        int[] arr = new int[]{1,2,3,4,5,6,7,0};
+        int[] arr = new int[]{2,1,3,4};
         int res = 0;
         //冒泡排序思想
         for (int i = 0 ;i<arr.length; i++){
             for (int j = i ;j<arr.length-1 ;j++){
                 if (arr[j] > arr[j+1]){
-
                     res++;
                 }
             }
         }
+        System.out.println(res);
     }
     //归并排序思想
     public static int res;

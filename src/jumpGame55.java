@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * @author yoyo
  * @mail yoyo185644@163.com
@@ -28,6 +30,7 @@ public class jumpGame55 {
     //只要存在一个位置 xx，它本身可以到达，并且它跳跃的最大长度为 x +nums[x]，这个值大于等于 yy，即 x+nums[x]≥y，那么位置 y 也可以到达。
     //作者：LeetCode-Solution
     //链接：https://leetcode-cn.com/problems/jump-game/solution/tiao-yue-you-xi-by-leetcode-solution/
+
     public static boolean canJump(int[] nums) {
         int len = nums.length;
         int rightmax = 0;
@@ -77,7 +80,14 @@ public class jumpGame55 {
 //    }
 
     public static void main(String[] args) {
-        System.out.println(canJump_dp(new int[]{2,3,1,1,4}));
+        Scanner in = new Scanner(System.in);
+        String str = in.nextLine();
+        String[] strs = str.substring(1,str.length()-1).split(",");
+        int[] nums = new int[strs.length];
+        for (int i = 0;i<strs.length;i++){
+            nums[i] = Integer.parseInt(strs[i]);
+        }
+        System.out.println(canJump_dp(nums));
 
     }
 

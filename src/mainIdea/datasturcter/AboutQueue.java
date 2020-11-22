@@ -1,6 +1,8 @@
 package mainIdea.datasturcter;
 
 import java.util.Stack;
+import java.util.concurrent.ArrayBlockingQueue;
+import java.util.concurrent.BlockingQueue;
 
 /**
  * @author yoyo
@@ -42,6 +44,12 @@ public class AboutQueue {
 
     }
 
+}
+/*
+阻塞队列
+ */
+class Blockingq{
+    BlockingQueue queue = new ArrayBlockingQueue(2);
 }
 /*
 用栈表示队列

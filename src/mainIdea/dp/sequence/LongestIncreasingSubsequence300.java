@@ -1,5 +1,7 @@
 package mainIdea.dp.sequence;
 
+import java.util.Scanner;
+
 /**
  * @author yoyo
  * @mail yoyo185644@163.com
@@ -23,6 +25,7 @@ package mainIdea.dp.sequence;
 
 //最值问题可以使用动态规划来解决
 public class LongestIncreasingSubsequence300 {
+
     public static int lengthOfLIS(int[] nums) {
         int len = nums.length;
         if (len == 0 || nums == null) return 0;
@@ -48,7 +51,16 @@ public class LongestIncreasingSubsequence300 {
     }
 
     public static void main(String[] args) {
-        System.out.println(lengthOfLIS(new int[]{1,3,6,7,9,4,10,5,6}));
+        Scanner in = new Scanner(System.in);
+        String[] s = in.nextLine().split(" ");
+        int n = s.length;
+        int nums[] = new int[n];
+        for (int i =0;i<n;i++){
+            nums[i] = Integer.parseInt(s[i]);
+        }
+        System.out.println(lengthOfLIS(nums));
+
+
     }
 
 }

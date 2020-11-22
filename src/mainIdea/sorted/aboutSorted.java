@@ -10,11 +10,11 @@ public class aboutSorted {
     // 冒泡排序
     public static void BubbleSort(int[] nums) {
         if (nums.length <= 1) return;
-        for (int i = 0; i < nums.length; i++) {
+        for (int i = 0; i < nums.length-1; i++) {
             //表示没有数据可以交换
             boolean flag = false;
             //注意第二次循环的递归范围是到nums.length - i -1
-            for (int j = i; j < nums.length - i - 1; j++) {
+            for (int j = 0; j < nums.length - i - 1; j++) {
                 if (nums[j] > nums[j + 1]) {
                     int temp = nums[j + 1];
                     nums[j + 1] = nums[j];
@@ -37,14 +37,14 @@ public class aboutSorted {
             for (; j >= 0; j--) {
                 if (nums[j] > val) {
                     nums[j + 1] = nums[j];
-                } else break;
+                } else break; //一定要停止
             }
             nums[j + 1] = val;
         }
 
     }
 
-    //选择排序
+    //选择排序 不稳定
     public static void selectSort(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
             //初始化最小值
@@ -62,6 +62,7 @@ public class aboutSorted {
         }
     }
 
+
     //归并排序
     public static void mergeSort(int[] nums, int left, int right) {
         if (left >= right) return;
@@ -70,7 +71,6 @@ public class aboutSorted {
         mergeSort(nums, left, mid);
         mergeSort(nums, mid + 1, right);
         merge(nums, left, mid + 1, right);
-
     }
 
     public static void merge(int[] nums, int left, int mid, int right) {
@@ -97,9 +97,9 @@ public class aboutSorted {
 
     }
 
+
     //快速排序
     public static void quickSort(int[] nums) {
-        int pivot = nums.length - 1;
         if (nums.length <= 1 || nums == null) return;
         quick(nums, 0, nums.length - 1);
     }
@@ -114,6 +114,7 @@ public class aboutSorted {
             //从后往前找到第一个小于pivot的数
             while (nums[j] > pivot && i < j) j--;
             //从前往后找到第一个大于pivot的数
+            //保证i指向的是比pivot小的数字
             while (nums[i] <= pivot && i < j) i++;
             //交换这两元素
             if (i < j) {
@@ -132,15 +133,7 @@ public class aboutSorted {
 
     }
 
-    public static void main(String[] args) {
-        int[] nums = {2, 3, 4, 1, 5, 7};
-        //mergeSortT(nums,0,nums.length-1);
-        quickSort(nums);
-        for (int i = 0; i < nums.length; i++) {
-            System.out.println(nums[i]);
-        }
 
-    }
 }
 
 class Heap{
@@ -185,6 +178,7 @@ class Heap{
             int temp = a[maxPos];
             a[maxPos] = a[i];
             a[i] = temp;
+            //向下遍历
             i = maxPos;
         }
     }
@@ -216,9 +210,7 @@ class Heap{
 
 
     }
-    public static void test(int[] nums){
 
-    }
 
 }
 

@@ -1,5 +1,7 @@
 package mainIdea.offer;
 
+import java.util.Scanner;
+
 /**
  * @author yoyo
  * @mail yoyo185644@163.com
@@ -11,17 +13,23 @@ package mainIdea.offer;
  */
 public class GetUglyNumber_Solution {
     public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int N = in.nextInt();
+        System.out.println(Cal(N));
 
     }
     public static int Cal(int index) {
+        if (index <= 0) return 0;
+        if (index < 7) return index;
         int p1=0,p2=0,p3=0;
         int[] res = new int[index];
         res[0] = 1;
-        for (int i = 1;i<index;i++){
+        int i = 1;
+        for ( ;i<index;i++){
             res[i] = Math.min(res[p1]*2 ,Math.min(res[p2]*3,res[p3]*5));
             if (res[i] == res[p1]*2) p1++;
-            if (res[i] == res[p2]*2) p2++;
-            if (res[i] == res[p3]*2) p3++;
+            if (res[i] == res[p2]*3) p2++;
+            if (res[i] == res[p3]*5) p3++;
         }
         return res[index-1];
     }

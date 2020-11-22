@@ -1,58 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db49d8d-675b-4224-ab06-5242667b70e8" name="Default Changelist" comment="dev-20200802">
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/backtrack/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/BT/FindPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/BT/MaximumBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/arrays/AllCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/arrays/NumberOf1Between1AndN_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/arrays/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/arrays/TopKMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/dp/sequence/FindGreatestSumOfSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/EntryNodeOfLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/FindContinuousSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/FindFirstCommonNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/FindNumbersWithSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/FindNumsAppearOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/FirstNotRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/GetMedium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/GetNext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/GetNumberOfK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/GetUglyNumber_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/InversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/IsBalancedSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/KthNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/LastRemaining_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/LeftRotateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/PrintMinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/ReverseSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/Serialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/Sum_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/TreeDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/deleteDuplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/hasPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/isSymmetrical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/offer/maxInWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/CalLeast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Draw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/ListMony.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/MaxOr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Point24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Sushu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/ThrowMinProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/isValid.java" afterDir="false" />
+    <list default="true" id="9db49d8d-675b-4224-ab06-5242667b70e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SumOfSquareNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/BT/RebuildPre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/arrays/Sqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/graph/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/dp/arraypartion/ArithmeticSlices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/dp/arraypartion/IntegerBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/dp/houserobber/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/dp/houserobber/HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/neinei/array/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/neinei/array/Ttes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/neinei/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/BTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Choose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/CircleStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/CoStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Dance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/FinaleProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/GetMinimumDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/GridLand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Net.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/NumN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Numberofprize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/RemoveLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Secret.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Sory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Valid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainIdea/test/Weight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/mainIdea/backtrack/Bag0_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/mainIdea/backtrack/Bag0_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/mainIdea/backtrack/cal8Queens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/mainIdea/backtrack/cal8Queens.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/mainIdea/datasturcter/linklist/OddEvenLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/mainIdea/datasturcter/linklist/OddEvenLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/validParentheses20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/validParentheses20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainIdea/backtrack/Bag0_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainIdea/backtrack/Bag0_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainIdea/backtrack/cal8Queens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainIdea/backtrack/cal8Queens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainIdea/datasturcter/linklist/OddEvenLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/linklist/OddEvenLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validParentheses20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/validParentheses20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/jumpGame55.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/jumpGame55.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/mainIdea/datasturcter/AboutQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/mainIdea/datasturcter/AboutQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/mainIdea/datasturcter/LRU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/mainIdea/datasturcter/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/mainIdea/datasturcter/stackToQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/mainIdea/datasturcter/stackToQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/mainIdea/dp/sequence/LongestIncreasingSubsequence300.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/mainIdea/dp/sequence/LongestIncreasingSubsequence300.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/mainIdea/sorted/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/mainIdea/sorted/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/mainIdea/sorted/aboutSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/mainIdea/sorted/aboutSorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/permutationsII47.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/permutationsII47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jumpGame55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jumpGame55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainIdea/datasturcter/AboutQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/AboutQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainIdea/datasturcter/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainIdea/datasturcter/LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainIdea/dp/sequence/FindGreatestSumOfSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainIdea/dp/sequence/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainIdea/dp/sequence/LongestIncreasingSubsequence300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainIdea/dp/sequence/LongestIncreasingSubsequence300.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainIdea/offer/GetUglyNumber_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainIdea/offer/GetUglyNumber_Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainIdea/offer/InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainIdea/offer/InversePairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainIdea/sorted/aboutSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainIdea/sorted/aboutSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/permutationsII47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/permutationsII47.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +93,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -113,10 +124,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -135,13 +146,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OddEvenLinkedList">
-    <configuration name="GetMedium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mainIdea.offer.GetMedium" />
+  <component name="RunManager" selected="Application.permutationsII47">
+    <configuration name="BTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainIdea.test.BTree" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mainIdea.offer.*" />
+          <option name="PATTERN" value="mainIdea.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mainIdea.datasturcter.linklist.OddEvenLinkedList" />
+    <configuration name="RebuildPre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainIdea.datasturcter.BT.RebuildPre" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mainIdea.datasturcter.linklist.*" />
+          <option name="PATTERN" value="mainIdea.datasturcter.BT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mainIdea.datasturcter.arrays.Sum" />
+    <configuration name="Remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainIdea.test.Remove" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mainIdea.datasturcter.arrays.*" />
+          <option name="PATTERN" value="mainIdea.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cal8Queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mainIdea.backtrack.cal8Queens" />
+    <configuration name="Track" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainIdea.test.Track" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mainIdea.backtrack.*" />
+          <option name="PATTERN" value="mainIdea.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,15 +199,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hasPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mainIdea.offer.hasPath" />
+    <configuration name="permutationsII47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="permutationsII47" />
       <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mainIdea.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -265,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OddEvenLinkedList" />
-        <item itemvalue="Application.cal8Queens" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.hasPath" />
-        <item itemvalue="Application.GetMedium" />
+        <item itemvalue="Application.permutationsII47" />
+        <item itemvalue="Application.BTree" />
+        <item itemvalue="Application.Track" />
+        <item itemvalue="Application.Remove" />
+        <item itemvalue="Application.RebuildPre" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +329,15 @@
       <workItem from="1596245664032" duration="1006000" />
       <workItem from="1596247244726" duration="17634000" />
       <workItem from="1597143706476" duration="15968000" />
-      <workItem from="1597389275561" duration="37110000" />
+      <workItem from="1597389275561" duration="59303000" />
+      <workItem from="1598420678781" duration="181000" />
+      <workItem from="1598421411485" duration="42887000" />
+      <workItem from="1599097921341" duration="96000" />
+      <workItem from="1599098056512" duration="32747000" />
+      <workItem from="1600000037057" duration="2763000" />
+      <workItem from="1600080096292" duration="3266000" />
+      <workItem from="1600306898410" duration="2346000" />
+      <workItem from="1603799238606" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="dev1">
       <created>1596248493888</created>
@@ -333,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596248493888</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dev-20200816">
+      <created>1597650027021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597650027022</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,7 +374,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dev1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dev1" />
+    <MESSAGE value="dev-20200816" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev-20200816" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
